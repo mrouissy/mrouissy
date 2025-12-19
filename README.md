@@ -47,16 +47,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=mrouissy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrouissy&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20I%20Use"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=mrouissy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrouissy&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20I%20Use" alt="Languages I Use"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp. com/?user=mrouissy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats. herokuapp.com/?user=mrouissy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph. vercel.app/graph?username=mrouissy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrouissy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -64,7 +64,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrouissy/mrouissy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mrouissy/mrouissy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/? username=mrouissy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/? username=mrouissy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">
