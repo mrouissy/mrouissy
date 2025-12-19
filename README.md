@@ -54,7 +54,25 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrouissy&theme=tokyonight" alt="Profile Summary"/>
 </div>
+---
 
+<h2 align="center">🐍 Contribution Snake - Devouring Code Daily</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrouissy/mrouissy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrouissy/mrouissy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrouissy/mrouissy/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Contributions-Growing Daily-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Streak-Active-00FF00?style=for-the-badge&logo=git&logoColor=white" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Code-Never Stops-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Code"/>
+</div>
+
+<br>
 ---
 
 ## 🔗 Connect with Me
