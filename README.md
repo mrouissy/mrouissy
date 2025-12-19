@@ -47,16 +47,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrouissy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrouissy&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20I%20Use" alt="Languages I Use"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrouissy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrouissy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrouissy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrouissy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=mrouissy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
