@@ -47,11 +47,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrouissy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrouissy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrouissy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrouissy&theme=tokyonight" alt="GitHub Stats Card"/>
 </div>
